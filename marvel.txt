@@ -1,6 +1,4 @@
-hellsdjf; lkjsdf;lk 
-
-;sdfj;lk
-lkdjf;
-;klsdjf
- 
+#!/bin/bash
+echo "hello world"
+echo "what you want to do "
+ls
